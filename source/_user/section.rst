@@ -10,7 +10,7 @@ Adding a Section
 
 - Next, in the Templates dialog, select your prefer section template, click Select button.
 
-.. image:: ./assets/images/addsection.jpg
+.. image:: ../assets/images/addsection.jpg
 
 
 
@@ -24,7 +24,7 @@ Duplicate a Section
 - Move the mouse to an empty point in this section then click.
 - Now, click the Duplicate button.
 
-.. image:: ./assets/images/duplicatemodule.jpg
+.. image:: ../assets/images/duplicatemodule.jpg
 
 
 

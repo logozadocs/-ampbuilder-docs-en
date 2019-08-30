@@ -12,7 +12,7 @@ Google Recaptcha
 Register your website
 ==============
 - In order to register a website, simply type anything into the "label" field of the form. For example you can type the name of your website.
-- Select  reCAPTCHA v2 then  tick Invisible reCAPTCHA badge.
+- Select  reCAPTCHA v3..
 - Type your website domain into the "Domains" field of the form, like displayed above.
 .. image:: ../assets/images/recaptcha.jpg
 - Once you've filled the whole form, press the "Register" button. 
