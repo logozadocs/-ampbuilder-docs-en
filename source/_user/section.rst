@@ -10,7 +10,8 @@ Adding a Section
 
 - Next, in the Templates dialog, select your prefer section template, click Select button.
 
-.. image:: https://landingmall.stsengine.com/wp-content/uploads/sites/5/2019/03/section1.jpg
+.. image:: ./assets/images/addsection.jpg
+
 
 
 
@@ -23,7 +24,8 @@ Duplicate a Section
 - Move the mouse to an empty point in this section then click.
 - Now, click the Duplicate button.
 
-.. image:: https://landingmall.stsengine.com/wp-content/uploads/sites/5/2019/03/clonesection.jpg
+.. image:: ./assets/images/duplicatemodule.jpg
+
 
 
 ==============

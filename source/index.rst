@@ -35,7 +35,6 @@ To purchase AMP Builder `Click Here <https://AMP Builder.stsengine.com>`__
 
    _admin/access
    _admin/templates
-   _admin/landingpage
 
 
 .. _advanced-settings:
