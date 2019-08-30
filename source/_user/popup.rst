@@ -31,20 +31,17 @@ Edit a Popup
 
 
 ==============
-Section Properties
+Toogle a Sidebar or Lightbox
 ==============
-**Offset**
 
-Change height of the section.
-**Border**
 
-Set border color, stroke and add a corner radius.
-**Box shadow**
+- Drag a Button or a SVG Shape from the left sidebar to builder.
 
-Add shadow to your section.
-**Label Properties**
+.. image:: ../assets/images/addbutton.jpg
 
-Set text properties such as color, font style. It will apply for every new text widget added to this section.
-**Background**
+- Left click into this new module to change it to edit mode.
+- On the right panel, scroll down to show to Action section
 
-Set background color, image. Support gradient color.
+- In the Action dropdown, Select Open a Sidebar or Open a Popup. Then select relevant popup in the next dropdown.
+
+.. image:: ../assets/images/buttonaction.jpg

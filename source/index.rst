@@ -74,6 +74,7 @@ To purchase AMP Builder `Click Here <https://AMP Builder.stsengine.com>`__
    _user/module
    _user/section
    _user/popup
+   _user/carousel
    _user/form
    _user/form_integration
    _user/crm_config
