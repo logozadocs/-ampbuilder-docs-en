@@ -14,10 +14,10 @@ Adding Form Fields
 ==============
 - Select a Form in the Builder.
 
-.. image:: https://landingmall.stsengine.com/wp-content/uploads/sites/5/2018/08/wwform.jpg
 
 - On the right panel, scroll down to show to Form Fields section
-.. image:: https://landingmall.stsengine.com/wp-content/uploads/sites/5/2018/08/wwform1.jpg
+.. image:: ../assets/images/formfield.jpg
+
 - Drag relevant form field into your form.
 
 
