@@ -9,10 +9,13 @@ Adding a Popup
 - Open the Builder, click Add Popup button located on left side of the header.
 
 
-- Next, in the Templates dialog, select your prefer popup template, click Select button.
+- Next, select your prefer popup type:
+	- Sidebar: show from left or right side of the browser.
+	- Notification: show when user visits this page.
+	- Lightbox: show when user clicked a button.
 
 
-.. image:: https://landingmall.stsengine.com/wp-content/uploads/sites/5/2019/03/popup.jpg
+.. image:: ../assets/images/addpopup.jpg
 
 
 
@@ -24,7 +27,7 @@ Edit a Popup
 - Still in the builder, click the Page Tabs dropdown located on the header
 - Select a popup on the menu dropdown.
 
-.. image:: https://landingmall.stsengine.com/wp-content/uploads/sites/5/2019/03/editpopup.jpg
+.. image:: ../assets/images/editpopup.jpg
 
 
 ==============
