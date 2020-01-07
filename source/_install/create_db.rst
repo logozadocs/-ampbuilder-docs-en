@@ -22,15 +22,17 @@ Linux Command line
 
 First we’ll login to the MySQL server from the command line with the following command:
 
-mysql -u root -p
+.. code-block:: mysql
+	mysql -u root -p
 
 In this case, I’ve specified the user root with the -u flag, and then used the -p flag so MySQL prompts for a password. Enter your current password to complete the login.
 
 If you need to change your root (or any other) password in the database, then follow this tutorial on changing a password for MySQL via the command line.
 
 You should now be at a MySQL prompt that looks very similar to this:
+.. code-block:: mysql
 
-mysql>
+	mysql>
 
 To create a database with the name tutorial_database type the following command:
 
