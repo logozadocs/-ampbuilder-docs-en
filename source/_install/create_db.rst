@@ -5,3 +5,23 @@ First thing you want to do before installing LandingMall is to create a new data
 Your host will most likely be running phpMyAdmin as mysql manager, if that's the case here's a step by step guide (if not the proccess will be very similar on other managers).
 
 Login to your control panel, find and click phpMyAdmin link. Click on the database tab in the top menu, enter any name you like and click create.
+
+
+==============
+cPanel
+==============
+ - Log into cPanel.
+ - Under Databases, click MySQL Databases.
+ - In the New Database field, type a name for the database.
+ - Click Create Database.
+ - Click Go Back. 
+ 
+ ==============
+phpMyAdmin
+==============
+
+ - Log into cPanel.
+ - Under Databases, click MySQL Databases.
+ - In the New Database field, type a name for the database.
+ - Click Create Database.
+ - Click Go Back. 
