@@ -44,7 +44,6 @@ To purchase AMP Builder `Click Here <https://AMP Builder.stsengine.com>`__
    :maxdepth: 1
    :caption: Configuration
 
-   _config/screenshot
    _config/subdomain
    
    _config/domain
