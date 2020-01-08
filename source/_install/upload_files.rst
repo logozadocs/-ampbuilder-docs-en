@@ -1,3 +1,6 @@
 Uploading Files
 ==============
-After creating a database, unzpip the .zip file you donwloaded and upload the contents of AMPBuilder folder to your server root folder (usually called www or html or something similar), shared hosting providers usually have a web based file manager, but you should use something like Filezilla to do the upload as the web based managers can cause various problems fairly often.
+ - Unzpip the .zip file you downloaded.
+ - Find this file source.zip.
+ - Upload this file to your hosting and unzip.
+ 
