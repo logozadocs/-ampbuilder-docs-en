@@ -3,8 +3,8 @@ Publishing & Domain names
 
 If you want to allow your end-users to publish their landing page(s) using their own domain names, like yourdomain.com, you will need to complete the following steps:
 
-Configure local DNS on the server hosting your copy of LandingMall. You will need to instruct your server to direct requests for the custom domain to the folder on the server containing your LandingMall code
-Create a DNS record for the custom domain which points to your LandingMall server. This needs to be completed at the main nameserver for the custom domain (typically, this is a step your end-users will need to complete themselves, as it requires access to the domain’s DNS records).
+Configure local DNS on the server hosting your copy of AMPBuilder. You will need to instruct your server to direct requests for the custom domain to the folder on the server containing your AMPBuilder code
+Create a DNS record for the custom domain which points to your AMPBuilder server. This needs to be completed at the main nameserver for the custom domain (typically, this is a step your end-users will need to complete themselves, as it requires access to the domain’s DNS records).
 
 - Loggin with url your_site_url/profile
 - Select relevant website then click Select

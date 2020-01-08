@@ -13,6 +13,6 @@ Mailchimp
 - In the fields provided, input your application’s information and click Create.
 - When creation is successful, you’ll see an Application created message appear, and more information at the end of your form, including the Client_ID and Client Secret. Do not share the Client_ID and Client Secret.
 .. image:: https://landingmall.stsengine.com/wp-content/uploads/sites/5/2017/11/mailchimp3.jpg
-- Login to your LandingMall Admin -> Settings -> Integrations tab, fill the Mailchimp form with your Client ID and Client Secret then click Save.
+- Login to your AMPBuilder Admin -> Settings -> Integrations tab, fill the Mailchimp form with your Client ID and Client Secret then click Save.
 
 
