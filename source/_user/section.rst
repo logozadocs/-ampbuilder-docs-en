@@ -31,21 +31,18 @@ Duplicate a Section
 ==============
 Section Properties
 ==============
-**Offset**
 
-Change height of the section.
 **Border**
 
 Set border color, stroke and add a corner radius.
+
 **Box shadow**
 
 Add shadow to your section.
 **Label Properties**
 
 Set text properties such as color, font style. It will apply for every new text widget added to this section.
+
 **Background**
 
 Set background color, image. Support gradient color.
-**Overlay Properties**
-
-Add a overlay div to section.
