@@ -22,6 +22,7 @@ To purchase AMP Builder `Click Here <https://AMP Builder.stsengine.com>`__
    _install/requirement
    _install/create_db
    _install/upload_files
+   _install/doc_root
    _install/file_permission
    _install/install
    _install/updating
