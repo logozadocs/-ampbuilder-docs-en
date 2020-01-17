@@ -3,7 +3,9 @@ Permission
 
 Change permisson of following files and folders:
  - .env(666)
- - storage(775)
- - bootstrap/cache(775)
- - public(775)
+ - storage/framework(777)
+ - storage/logs(777)
+ - storage/app/public(777)
+ - bootstrap/cache(777)
+ - public(777)
 
