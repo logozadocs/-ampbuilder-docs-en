@@ -7,7 +7,7 @@ Aweber
 
 .. image:: ../assets/images/aweber.jpg
 
-- In the Next Popup, fill all required information. 
+- In the Next Popup, fill all required information. Fill OAuth Redirect URL textbox with value https://your_site_url/auth/integration/aweber/callback
 
 .. image:: ../assets/images/aweber2.jpg
 - Click Create New App
