@@ -8,18 +8,22 @@ Create Hubspot Application
 
 - Create a new Hubspot Developer Account in https://app.hubspot.com/signup/developers
 - Access Hubspot Developer Site with this account.
-- Select Apps >  Create Application, fill all required filed in the popup and click Create.
-.. image:: https://landingmall.stsengine.com/wp-content/uploads/sites/5/2018/08/hubspot.jpeg
+- Select Apps >  Create Application, fill all required filed in the popup.
+.. image:: ../assets/images/hubspot.jpg
+.. image:: ../assets/images/hubspot2.jpg
+
+- Switch to Auth tab, scroll down the form to view the Scopes section, select 3 scopes: Forms, Contacts, Basic Oauth Functionality.
+.. image:: ../assets/images/hubspot6.jpg
+
+.. image:: ../assets/images/hubspot5.jpg
+
+- Click Save.
 
 - Back to Apps, select your created application
+.. image:: ../assets/images/hubspot3.jpg
 
 - From the application form, copy client_id and client_secrect.
-
-- Scroll down the form to view the Scopes section, check same as the screenshot then click Save
-
-.. image:: https://landingmall.stsengine.com/wp-content/uploads/sites/5/2018/08/hubspot2.jpg
-
-
+.. image:: ../assets/images/hubspot4.jpg
 
 ==============
 Integrate with your site
