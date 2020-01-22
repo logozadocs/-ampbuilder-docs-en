@@ -11,7 +11,6 @@ This documentation will help you learn all about creating landing page, configur
 
 .. NOTE:: AMP Builder is build with `Laravel Framework <https://laravel.com>`__
 
-To purchase AMP Builder `Click Here <https://AMP Builder.stsengine.com>`__
 
 .. _installation:
 
