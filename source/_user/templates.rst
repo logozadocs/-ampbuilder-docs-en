@@ -10,7 +10,7 @@ Create Page Template
 .. image:: ../assets/images/edit_website2.jpg
 - On the right panel, select Page tab.
 - Click Save to My Template.
-.. image:: ../assets/images/page_template.jpg
+.. image:: ../assets/images/page_template.png
 
 ==============
 Create Section Template
@@ -25,7 +25,7 @@ Create Section Template
 - Now in the Builder Canvas, Click to Edit a section.
 - On the right panel, click Save to My Template.
 
-.. image:: ../assets/images/section_template.jpg
+.. image:: ../assets/images/section_template.png
 
 
 
@@ -45,7 +45,7 @@ Create Popup Template
 .. image:: ../assets/images/editpopup.jpg
 
 - Next, select Popup tab. Then click Save to My Template.
-.. image:: ../assets/images/popup_template.jpg
+.. image:: ../assets/images/popup_template.png
 
 
 
