@@ -70,6 +70,7 @@ This documentation will help you learn all about creating landing page, configur
    _user/login
    _user/website
    _user/publishing
+   _user/templates
    _user/module
    _user/section
    _user/popup
