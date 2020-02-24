@@ -36,6 +36,7 @@ This documentation will help you learn all about creating landing page, configur
    _admin/access
    _admin/templates
    _admin/libraries
+    _admin/translating
 
 .. _advanced-settings:
 
