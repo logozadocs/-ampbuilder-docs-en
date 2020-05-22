@@ -5,6 +5,12 @@ Changelog
 Version 1.0.2
 ==============
 
+- Fix bug: template loading when scrolling down
+
+==============
+Version 1.0.2
+==============
+
 - Fix bug: prevent user on creating empty template
 
 ==============
