@@ -2,11 +2,11 @@ Changelog
 ==============
 
 ==============
-Version 1.0.4
+Version 1.0.4 - 05/25/2020
 ==============
 
 - Add Field name for checkbox, dropdown and radio element.
-- Enhancement text editor.
+- Text editor Enhancement.
 - Fix bug: Text editor drop line when saving.
 - Fix bug: switching to Popup edit mode doesn't work.
 
