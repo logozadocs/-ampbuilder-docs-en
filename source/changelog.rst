@@ -2,7 +2,15 @@ Changelog
 ==============
 
 ==============
-Version 1.0.2
+Version 1.0.4
+==============
+
+- Add Field name for checkbox, dropdown and radio element.
+- Fix bug: Text editor drop line when saving.
+- Fix bug: changing to Popup edit mode.
+
+==============
+Version 1.0.3
 ==============
 
 - Fix bug: template loading when scrolling down
