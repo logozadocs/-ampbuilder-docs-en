@@ -2,6 +2,15 @@ Changelog
 ==============
 
 ==============
+Version 1.0.4.1 - 05/26/2020
+==============
+
+- Fix bug: rebuild and clear config button not working.
+- Fix bug: test email button not working.
+- Fix bug: section overflow on mobile.
+- Fix bug: save section template causes SVG image to hidden.
+
+==============
 Version 1.0.4 - 05/25/2020
 ==============
 
