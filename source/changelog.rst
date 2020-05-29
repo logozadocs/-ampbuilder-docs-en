@@ -9,7 +9,7 @@ Version 1.0.4.3 - 05/29/2020
 - Fix bug: allow CORS request from http website.
 - Fix bug: AMP InputMask duplicate text on real mobile device.
 - Enhancement: auto select widget after inserted.
-- Add Favicon for every domain.
+- Enhancement: Add Favicon for every domain.
 
 ==============
 Version 1.0.4.1 - 05/26/2020
