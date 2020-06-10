@@ -2,6 +2,16 @@ Changelog
 ==============
 
 ==============
+Version 1.0.4.4 - 06/10/2020
+==============
+
+- Add reset analytic button.
+- Upgrade leafo/scss library to latest version.
+- Fix bug: CORS headers doesn't work on Firefox.
+- Fix bug: Analytic Data doesn't work on second loaded time.
+
+
+==============
 Version 1.0.4.3 - 05/29/2020
 ==============
 
