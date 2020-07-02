@@ -2,6 +2,13 @@ Changelog
 ==============
 
 ==============
+Version 1.0.4.5 - 07/02/2020
+==============
+
+- Add preview thumbnail for Carousel widget.
+- Fix bug: project removing on Admin dashboard.
+
+==============
 Version 1.0.4.4 - 06/10/2020
 ==============
 
