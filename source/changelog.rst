@@ -1,5 +1,12 @@
 Changelog
 ==============
+==============
+Version 1.0.4.6 - 09/08/2020
+==============
+
+- Fix bug: view website in custom domain.
+- Fix bug: website's styles breaking when user input invalid number
+
 
 ==============
 Version 1.0.4.5 - 07/02/2020
